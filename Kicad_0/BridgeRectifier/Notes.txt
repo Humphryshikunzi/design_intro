@@ -1,0 +1,6 @@
+Strats - Between components in the design
+Thermal Relief - When the contact area becomes very hot.
+Filling - Grounding the board to release charges on it.
+Priority level
+Drill files, shows where everywhere there is a hole.
+Gerber files - Files to help fabricate the board 
